@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "427396032479",
+    "project_id": "penguiny-8ti46w",
+    "storage_bucket": "penguiny-8ti46w.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427396032479:android:4cf2416accda8df4d5466a",
+        "android_client_info": {
+          "package_name": "com.mycompany.penguiny"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj4r5yHw9Gel1G1AqUSJ_tlu85CbEUrgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
