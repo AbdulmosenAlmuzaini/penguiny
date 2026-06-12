@@ -39,7 +39,6 @@
 .packages
 .pub-cache/
 .pub/
-/lib/generated_plugin_registrant.dart
 
 # Android-specific
 /android/key.properties
