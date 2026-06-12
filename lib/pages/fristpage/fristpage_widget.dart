@@ -68,7 +68,7 @@ class _FristpageWidgetState extends State<FristpageWidget> {
                               padding: EdgeInsetsDirectional.fromSTEB(
                                   36.0, 20.0, 0.0, 0.0),
                               child: Text(
-                                'مرحباً بك',
+                                'PENGUINY',
                                 style: FlutterFlowTheme.of(context)
                                     .bodyMedium
                                     .override(
@@ -237,12 +237,12 @@ class _FristpageWidgetState extends State<FristpageWidget> {
                 ),
               ),
               Align(
-                alignment: AlignmentDirectional(-0.91, 0.0),
+                alignment: AlignmentDirectional(0.0, 0.0),
                 child: Padding(
                   padding:
-                      EdgeInsetsDirectional.fromSTEB(120.0, 180.0, 0.0, 0.0),
+                      EdgeInsetsDirectional.fromSTEB(16.0, 100.0, 16.0, 40.0),
                   child: Text(
-                    'الثانوية السادسة والثلاثون- مسارات\nالمدينة المنورة',
+                    'إعداد وبرمجة الطالبات: رواء المزيني - شيماء عبد الرحمن - دانيا المطرفي - رتاج الجربوع\nرفيف المغذوي - لمار الحازمي - جنى الحسيني - راجين الجابري\nالثانوية السادسة والثلاثون - مسارات\nالمدينة المنورة',
                     textAlign: TextAlign.center,
                     style: FlutterFlowTheme.of(context).bodyMedium.override(
                           font: GoogleFonts.inter(
