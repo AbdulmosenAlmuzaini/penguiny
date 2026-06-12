@@ -107,7 +107,7 @@ class _FristpageWidgetState extends State<FristpageWidget> {
                     Align(
                       alignment: AlignmentDirectional(0.0, 0.0),
                       child: Text(
-                        'To Have A Big Win Follow My Penguin',
+                        'To Have A Big Win Follow My PENGUINY',
                         style: FlutterFlowTheme.of(context).bodyMedium.override(
                               font: GoogleFonts.notoSerif(
                                 fontWeight: FontWeight.w600,
